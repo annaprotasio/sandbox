@@ -1,0 +1,10 @@
+##gff-version 3
+##source-version rtracklayer 1.46.0
+##date 2020-08-12
+Acey_s0009_scaf	WormBase_imported	gene	1941701	1949452	.	+	.	ID=gene:Acey_s0009.g673;Name=Acey_s0009.g673;locus=Acey_s0009.g673;
+Acey_s0020_scaf	WormBase_imported	gene	885347	893833	.	-	.	ID=gene:Acey_s0020.g108;Name=Acey_s0020.g108;locus=Acey_s0020.g108;
+Acey_s0023_scaf	WormBase_imported	gene	1274819	1282540	.	+	.	ID=gene:Acey_s0023.g802;Name=Acey_s0023.g802;locus=Acey_s0023.g802;
+Acey_s0023_scaf	WormBase_imported	gene	1917078	1925126	.	+	.	ID=gene:Acey_s0023.g869;Name=Acey_s0023.g869;locus=Acey_s0023.g869;
+Acey_s0025_scaf	WormBase_imported	gene	97895	105646	.	+	.	ID=gene:Acey_s0025.g1106;Name=Acey_s0025.g1106;locus=Acey_s0025.g1106;
+Acey_s0070_scaf	WormBase_imported	gene	458404	466035	.	+	.	ID=gene:Acey_s0070.g451;Name=Acey_s0070.g451;locus=Acey_s0070.g451;
+Acey_s0203_scaf	WormBase_imported	gene	273981	281735	.	-	.	ID=gene:Acey_s0203.g1846;Name=Acey_s0203.g1846;locus=Acey_s0203.g1846;
